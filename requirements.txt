@@ -3,7 +3,7 @@ appdirs==1.4.4
 backpack==0.1
 black==20.8b1
 blinker==1.4
-cleo==0.6.8
+cleo==2.0.0
 click==7.1.2
 Faker==0.8.18
 fastapi==0.61.2
